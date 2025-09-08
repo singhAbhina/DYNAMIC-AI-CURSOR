@@ -34,7 +34,9 @@ This project is ideal for developers, designers, and hobbyists looking to quickl
 - Automatically adds necessary HTML boilerplate if not included by AI.
 
 - ##SYSTEM ARCHITECTURE
-[](https://github.com/singhAbhina/DYNAMIC-AI-CURSOR/blob/main/imag.png)
+
+![System Architecture](https://github.com/singhAbhina/DYNAMIC-AI-CURSOR/blob/main/imag.png)
+
 
 
 
