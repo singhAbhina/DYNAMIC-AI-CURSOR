@@ -37,6 +37,11 @@ This project is ideal for developers, designers, and hobbyists looking to quickl
 
 ![System Architecture](https://github.com/singhAbhina/DYNAMIC-AI-CURSOR/blob/main/imag.png)
 
+## RESULT
+
+![alt text](image.png)
+
+
 
 
 
