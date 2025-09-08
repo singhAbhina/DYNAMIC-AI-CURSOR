@@ -39,7 +39,7 @@ This project is ideal for developers, designers, and hobbyists looking to quickl
 
 ## RESULT
 
-![alt text](image.png)
+![alt text]([image.png](https://github.com/singhAbhina/DYNAMIC-AI-CURSOR/blob/main/cursor_1.png))
 
 
 
