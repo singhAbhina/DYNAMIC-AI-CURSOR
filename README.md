@@ -44,6 +44,9 @@ This project is ideal for developers, designers, and hobbyists looking to quickl
 ![AI Cursor Screenshot](https://github.com/singhAbhina/DYNAMIC-AI-CURSOR/blob/main/cursor_2.png)
 
 
+![AI Cursor Screenshot](https://github.com/singhAbhina/DYNAMIC-AI-CURSOR/blob/main/cursor_3.png)
+
+
 
 
 
