@@ -33,6 +33,9 @@ This project is ideal for developers, designers, and hobbyists looking to quickl
 - Ensures that CSS is wrapped within `<style>` tags and JavaScript within `<script>` tags.
 - Automatically adds necessary HTML boilerplate if not included by AI.
 
+- ##SYSTEM ARCHITECTURE
+[](https://github.com/singhAbhina/DYNAMIC-AI-CURSOR/blob/main/imag.png)
+
 
 
 ---
