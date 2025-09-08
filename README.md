@@ -40,7 +40,5 @@ This project is ideal for developers, designers, and hobbyists looking to quickl
 
 
 
----
 
-## 📂 Project Structure
 
